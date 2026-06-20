@@ -25,8 +25,8 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  fndDisplayArray(count++);
-  delay(1000);
+  fndDisplayArray(1234);
+  // delay(1000);
 }
 
 // 한 번 호출하면 1234를 한 프레임 스캔합니다.
